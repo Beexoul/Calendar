@@ -9,7 +9,7 @@ This script generates a calendar for a given year using the built-in calendar mo
 <p>4.The script will output a calendar for the given year.
 
 <h1>Example</h1>
-```bash
+``` bash
 
 Enter the year: 2020
 The calendar of 2020 is:
